@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/sjwillpushahead.github.io"
-url: "https://sjwillpushahead.github.io"
+baseurl: ""
+url: "/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: SOJEONG KIM                                # site's title
